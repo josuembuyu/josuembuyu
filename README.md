@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on something cool 🚀<br>I'm looking to collaborate on open-source projects<br>I'm constantly learning and exploring new technologies<br>I'm passionate about anything related to Javascript/Typescript/Node.js<br>You can reach me at josuembuyu94@gmail.com for any inquiries or discussions<br>Fun fact: I love 🎶 and enjoy exploring new tunes in my free time
+🔭 I’m currently working on something cool 😄😎 <br>👯 I'm looking to collaborate on open-source projects<br>🌱 I'm constantly learning and exploring new technologies<br>💬 I'm passionate about anything related to Javascript/Typescript/Node.js<br>📫 You can reach me at josuembuyu94@gmail.com for any inquiries or discussions<br>⚡ Fun fact: I love 🎶 and enjoy exploring new tunes in my free time
 
 
 ## 🌐 Socials:
